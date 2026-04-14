@@ -67,6 +67,12 @@ Designed a voice-first application that:
 
 ---
 
+## 📄 Case Study
+
+👉 [View Detailed Case Study](VoiceNotesAI_CaseStudy.pdf)
+
+---
+
 ## 📚 Learnings
 
 - Applied design thinking principles  
