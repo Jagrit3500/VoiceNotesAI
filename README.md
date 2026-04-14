@@ -1,16 +1,16 @@
-# 🎙️ VoiceNotes AI
+# 🎙️ VoiceNotes AI — Accessibility-Focused Voice Assistant 
 
-An accessibility-focused voice-to-text application designed to help users capture, organize, and summarize spoken ideas efficiently.
+An accessibility-focused voice-to-text application that helps users capture, organize, and summarize spoken ideas efficiently.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 VoiceNotes AI is a UI/UX prototype built in Figma that focuses on improving accessibility and productivity through voice-based note-taking and AI-powered summarization.
 
 ---
 
-## ❗ Problem
+## Problem
 
 Many users struggle to:
 - Capture spoken ideas quickly  
@@ -19,16 +19,17 @@ Many users struggle to:
 
 ---
 
-## 💡 Solution
+## Solution
 
 Designed a voice-first application that:
 - Converts speech to text in real-time  
 - Generates AI-based summaries  
-- Organizes notes using keyword tagging  
+- Organizes notes using keyword tagging
+- Enhances productivity through seamless voice interaction and intelligent summarization 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - 🎤 Voice-to-text transcription  
 - 🧠 AI-generated summaries  
@@ -40,7 +41,7 @@ Designed a voice-first application that:
 
 ---
 
-## 🎨 Design Approach
+## Design Approach
 
 - Followed **Apple Human Interface Guidelines (HIG)**  
 - Focused on:
@@ -51,14 +52,14 @@ Designed a voice-first application that:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Figma (UI/UX Design & Prototyping)
 
 ---
 
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/834c386a-342a-4dd1-8492-ef542590a914" />
 
@@ -67,19 +68,19 @@ Designed a voice-first application that:
 
 ---
 
-## 🔄 User Flow
+## User Flow
 
 ![User Flow](flow-diagram.png)
 
 ---
 
-## 📄 Case Study
+## Case Study
 
 👉 [View Detailed Case Study](VoiceNotesAI_CaseStudy.pdf)
 
 ---
 
-## 📚 Learnings
+## Learnings
 
 - Applied design thinking principles  
 - Improved skills in UI/UX and accessibility  
@@ -87,7 +88,7 @@ Designed a voice-first application that:
 
 ---
 
-## 👤 Author
+## Author
 
 Jagrit Dharewa  
 - GitHub: https://github.com/Jagrit3500  
