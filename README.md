@@ -67,6 +67,12 @@ Designed a voice-first application that:
 
 ---
 
+## 🔄 User Flow
+
+![User Flow](flow-diagram.png)
+
+---
+
 ## 📄 Case Study
 
 👉 [View Detailed Case Study](VoiceNotesAI_CaseStudy.pdf)
