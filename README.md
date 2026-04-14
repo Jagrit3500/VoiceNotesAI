@@ -60,7 +60,9 @@ Designed a voice-first application that:
 
 ## 📸 Screenshots
 
-<img width="652" height="1011" alt="image" src="https://github.com/user-attachments/assets/834c386a-342a-4dd1-8492-ef542590a914" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/834c386a-342a-4dd1-8492-ef542590a914" />
+<img width="649" height="1013" alt="image" src="https://github.com/user-attachments/assets/43d1bf5d-fdb5-4052-b43f-14156e69a723" />
+
 
 
 ---
